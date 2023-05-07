@@ -1,0 +1,14 @@
+if __name__ == '__main__':
+
+    dic = {}
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        dic[name] = score
+# get secound lowest score
+secound_lowest_score = sorted(dic.values())[1]
+# get secound lowest socred person name
+secound_lowest_score_name = sorted([name for name,score in dic.items() if score == secound_lowest_score])
+
+for i in secound_lowest_score_name:
+    print(i
