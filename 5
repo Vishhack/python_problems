@@ -1,0 +1,7 @@
+n = int(input())
+english = set(input().split())
+m = int(input())
+french = set(input().split())
+
+only_english_newspapers = english - french
+print("the total number of students who have subscribed to only English newspapers : ", len(only_english_newspapers))
