@@ -1,32 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <!-- Hidden CSS code for link colors -->
-    <style hidden>
-        :root {
-            --primary-link-color: #0366d6;
-            --secondary-link-color: #228B22;
-            --tertiary-link-color: #DC143C;
-        }
+<link rel="stylesheet" type="text/css" href="styles.css">
 
-        a {
-            color: var(--primary-link-color);
-            text-decoration: none;
-        }
-
-        .section-2 a {
-            color: var(--secondary-link-color);
-        }
-
-        .section-3 a {
-            color: var(--tertiary-link-color);
-        }
-    </style>
-    <!-- End of hidden CSS code -->
-
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
 
 
 
