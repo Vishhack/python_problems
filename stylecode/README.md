@@ -1,9 +1,5 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-
-
-
-
 # python_problems
 hackers rank problems
 
