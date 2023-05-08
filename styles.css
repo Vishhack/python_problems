@@ -1,18 +1,18 @@
 :root {
-    --primary-link-color: #0366d6;
-    --secondary-link-color: #228B22;
-    --tertiary-link-color: #DC143C;
+  --primary-link-color: #0366d6;
+  --secondary-link-color: #228B22;
+  --tertiary-link-color: #DC143C;
 }
 
 a {
-    color: var(--primary-link-color);
-    text-decoration: none;
+  color: var(--primary-link-color);
+  text-decoration: none;
 }
 
 .section-2 a {
-    color: var(--secondary-link-color);
+  color: var(--secondary-link-color);
 }
 
 .section-3 a {
-    color: var(--tertiary-link-color);
+  color: var(--tertiary-link-color);
 }
