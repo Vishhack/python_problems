@@ -32,7 +32,7 @@ you can add elements to a set using the add() method, and you can remove element
 **You can use the | operator to perform a union operation **
 ![union operation](https://user-images.githubusercontent.com/95610357/236809639-539f4cfe-6efb-435e-8e81-ac53462234c6.png)
 
-<a href="https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true" style="color: #0366d6; text-decoration: none;"><b>the & operator to perform an intersection operation</b></a>.
+<a href="https://www.hackerrank.com/challenges/py-set-union/problem?isFullScreen=true" style="color: #DC143C; text-decoration: none;"><b>the & operator to perform an intersection operation</b></a>.
 ![intersection operation](https://user-images.githubusercontent.com/95610357/236809722-58aeec73-4ec4-4476-8a33-195c9d81dab0.png)
 
 **the - operator to perform a difference operation **
